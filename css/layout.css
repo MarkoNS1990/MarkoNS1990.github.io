@@ -478,6 +478,19 @@ ul#nav li.current a {
   -ms-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
+.links {
+  display: flex;
+  justify-content: space-between;
+}
+.myrow {
+  width: 50% !important;
+  margin: auto !important;
+}
+@media only screen and (max-width: 768px) {
+  .item-wrap {
+    flex-direction: column;
+  }
+}
 
 /* overlay */
 .portfolio-item .item-wrap .overlay {

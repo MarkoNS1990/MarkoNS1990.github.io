@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Marko Zecevic",
-    "occupation": "Fullstack Web developer",
+    "occupation": "Full-stack Web developer",
     "description": "Ruby on Rails, React developer",
     "image": "image2.jpg",
     "bio": "My name is Marko, I'm a front-end web developer and open-source enthusiast with a love for clean code and accessible design. Pair-programming and remote work aficionado. Fluent in multiple languages, frameworks, and technologies, and capable of ramping up quickly and efficiently. In addition to my knowledge base, I actively seek out new technologies and stay up-to-date on industry trends and advancements.",
@@ -27,6 +27,11 @@
         "name": "github",
         "url": "https://github.com/MarkoNS1990",
         "className": "fa fa-github"
+      },
+      {
+        "name": "email",
+        "url": "mailto:marczecevic@gmail.com",
+        "className": "fa fa-envelope"
       }
     ]
   },
@@ -40,19 +45,15 @@
       },
       
       {
-        "school": "SmartInIt",
+        "school": "SmartInIt - Front-end web development program",
         "graduated":"September 2020 - December 2020",
-        "description":"Front End Web Development"
+        "description":"Spent 4 months stydying front-end web development, in person classes, done multiple projects with vanilla JavaScript and final project with Angular Framework."
       },
-      {
-        "school": "IT Academy",
-        "graduated":"2017-2018",
-        "description":"Web Development"
-      },
+      
       {
         "school": "Faculty of Technical Sciences",
-        "graduated":"2009-2015",
-        "description":"Bachelor's Degree in Graphical Design and Engineering(incomplete)"
+        "graduated":"September 2009- December 2015",
+        "description":"Bachelor's Degree in Graphical Design and Engineering (incomplete)"
         
       }
     ],
