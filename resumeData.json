@@ -106,7 +106,7 @@
         "category": "This is a simple weather app in which you can enter city name and weather info for that city will be shown. You can see temperatures both in Fahrenheits or Celsius. I used fetch API to fetch the data from weather-api.",
         "image": "weather.JPG",
         "github": "https://github.com/MarkoNS1990/weather_app",
-        "url": "http://markozecevic.me/weather_app/"
+        "url": "https://markons1990.github.io/weather_app/"
       },
       {
         "title": "For A Good Cause",
@@ -120,14 +120,14 @@
         "category": "In this project I built a simple Restaurant website. Using DOM manipulations and JavaScript alone to render whole content.",
         "image": "restaurant.jpg",
         "github": "https://github.com/MarkoNS1990/restaurant",
-        "url": "http://markozecevic.me/restaurant/"
+        "url": "https://markons1990.github.io/restaurant/"
       },
       {
         "title": "To-do app",
         "category": "In this project I built a to do app using plain JavaScript.You can make a new project and inside each project make a task, you can set the task priority and due dates. You can also delete each task or project.I used LocalStorage for storing the data and uuid for generating random id's.",
         "image": "todo.jpg",
         "github": "https://github.com/MarkoNS1990/to_do_app",
-        "url": "http://markozecevic.me/to_do_app/"
+        "url": "https://markons1990.github.io/to_do_app/"
       }
 
       
