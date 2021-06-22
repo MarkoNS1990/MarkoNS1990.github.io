@@ -334,7 +334,7 @@ ul#nav li.current a {
 }
 
 .gh-link {
-  color: blue !important;
+  color: gray !important;
   margin-top: 10px !important;
   font-size: 20px !important;
   font-weight: bold !important;
