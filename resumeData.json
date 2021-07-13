@@ -110,7 +110,7 @@
       },
       {
         "title": "Amazon Clone",
-        "category": "This is my effort to clone an Amazon website with fully function add to basket.Built using react and firebase for authentication.",
+        "category": "This is my effort to clone an Amazon website with fully functional add to cart.Built using react and firebase for authentication.",
         "image": "amazon.JPG",
         "github": "https://github.com/MarkoNS1990/amazon_clone",
         "url": "https://amazon-clone-marko.netlify.app/"
