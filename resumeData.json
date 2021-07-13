@@ -109,6 +109,13 @@
         "url": "http://markozecevic.me/weather_app/"
       },
       {
+        "title": "Amazon Clone",
+        "category": "This is my effort to clone an Amazon website with fully function add to basket.Built using react and firebase for authentication.",
+        "image": "amazon.JPG",
+        "github": "https://github.com/MarkoNS1990/amazon_clone",
+        "url": "https://amazon-clone-marko.netlify.app/"
+      },
+      {
         "title": "For A Good Cause",
         "category": "In this app I made a mobile first design app where you can create a charity, donate $1 to one, see all available charities and see users and their charity logs.",
         "image": "cause.png",
