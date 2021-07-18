@@ -123,11 +123,11 @@
         "url": "https://frozen-bayou-74659.herokuapp.com/"
       },
       {
-        "title": "Restaurant",
-        "category": "In this project I built a simple Restaurant website. Using DOM manipulations and JavaScript alone to render whole content.",
-        "image": "restaurant.jpg",
-        "github": "https://github.com/MarkoNS1990/restaurant",
-        "url": "http://markozecevic.me/restaurant/"
+        "title": "Bookstore-CMS",
+        "category": "Bookstore project for managing all CRUD operations with books. This applications works with an RESTful bookstore api which manages all CRUD operations with PostgreSQL.",
+        "image": "bookstore.jpg",
+        "github": "https://github.com/MarkoNS1990/bookstore",
+        "url": "https://best-bookstore.herokuapp.com/"
       },
       {
         "title": "To-do app",
